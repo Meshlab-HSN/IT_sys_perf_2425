@@ -2,3 +2,7 @@
 # - team: X
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>" -> for example: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFLsqwUg6tI3ELIVqKTCMx1F8KKtSiByQs97asJTxtBq user@pcname"
+
+- team: 1
+  name: "Til"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDypX0YwJFxW6F3Z8id8flspTEvolbfuO/idQWxfdrQF til@Til-VM"
