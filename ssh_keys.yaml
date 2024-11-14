@@ -58,8 +58,6 @@
 - team: 11
   name: "Yuga"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK6l9C2KvOXVAPfNkwJAdCa/s9FNnp/0sVIPMte878Uj yugak@Yuga_Karale"
-  
 - team: 11
   name: "Shubham"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPGojnigs+lBlDEgSPIxbYEOLLhQnB2Bpycvhnx5sLCO shubh@Shubham"
-
