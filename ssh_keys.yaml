@@ -54,3 +54,7 @@
 - team: 10
   name: "Shalu"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2pBldv5ZRTm2YJ19db+DNShsi6Yor9IZskqBRsx6sy vava@LAPTOP-1V80TR0H"
+
+- team: 11
+  name: "Emmanuel"
+  ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/DTMvD1fnOpkWs7zuY+pPzYMi/GEvdtPIjMGdmSq/1aRkicIjvjIXrU9O7mPXkJzpZD+w5/DwKZ4U8EejokrCiN78jT/Dww3WF9kN3Hqpj1HyYDr/3AD5KcuhTwKnpyov1SLgY/wB29VXTexonZDEIwHhsK5ZNq7Ret0tGvmRVqT3ZQ0q4dggXTELeMjji2hxa5Qz4TtsNEuV8q/O2wzjv4YZDOmyeGvD0ccTwtCRHX2mxwgZnua35dIdUskqvDlDo6yAmXl1O39weFYY/nMOztoVXqXKVuyPoSxlzWQ1BTMC6/8dq0PjlV7ppP4wk53hFIO29AeVzTSz5I6Er4QG8rgXNLir2xkwNMnjxl/KqJkHflNkkSrCXe2w9MJ+jiNVL+Y33gvz9NyzxwofLmjaZeV5Ur17dj3aZJichzFXxogcRfKx/1oyko1AhUBqeZ2HtXn75r4z2we+Sv+g/hivYJOySuajflPalb11T1JQ2NUig74eTXAmZDemXXR7P3c= user@Users-MBP.fritz.box"
